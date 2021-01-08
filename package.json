@@ -1,0 +1,17 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Armes",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "express": "^4.17.1"
+  },
+  "type": "module"
+}
